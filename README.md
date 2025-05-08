@@ -7,4 +7,4 @@ Using JupyterNotebook and R:
 With a central goal to build a classification algorithm predicting subscription status of a group of players based on various credentials:
 - performed classification using k-nn classification
 - created more visualizations
-- 
+- drew conclusions and analyzed the engine
